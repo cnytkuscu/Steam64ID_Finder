@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Steam64ID_Finder.Models
 {
-    // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
+    
     public class Player
     {
         public string steamid { get; set; }
